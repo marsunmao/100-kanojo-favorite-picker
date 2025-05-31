@@ -1,3 +1,0 @@
-# 100 Kanojo Favorite Picker
-
-This is a fork of the [Favorite Picker](https://github.com/antialiasis/favorite-picker), most notably used in the [Favorite Pokémon Picker](https://www.dragonflycave.com/favorite.html), but for 100 Kanojo instead. This tool lets you pick your favorite characters from a set repeatedly in order to find a list of your favorites. For info on the code, go to the Favorite Picker. I didn't really change anything significant outside of adding 100 Kanojo characters.
